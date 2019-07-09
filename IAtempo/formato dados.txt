@@ -1,0 +1,8 @@
+temp_instantanea
+umidade
+pressao
+velocidade_vento
+direcao_vento
+nebulosidade
+temperatura_ min_dia
+saida
